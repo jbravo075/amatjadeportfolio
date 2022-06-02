@@ -8,12 +8,12 @@
 <img src="images/blendimages.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Project 2 Title](Cool Retro Effect)
+<img src="images/car001_1500x1000px.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Project 3 Title](3D Popout Effect)
+<img src="ool-guy-with-sports-car-picture-id656665980_k=20&m=656665980&s=612x612&w=0&h=LsLb_1oqBarzLk1DbZRxPabfasob6Kd4fDe4mRFM0Lk=.jpg?raw=true"/>
 
 ---
 
